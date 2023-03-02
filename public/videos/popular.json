@@ -1,290 +1,309 @@
 {
   "kind": "youtube#videoListResponse",
-  "etag": "eh1uohCy6Ohg-UHWEFbGEAdYecQ",
+  "etag": "mFgifS3_vRbZlHyKA58XJXwJKWM",
   "items": [
     {
       "kind": "youtube#video",
-      "etag": "wnITO2LEFE_Jy6Sm6aiW_K8295U",
-      "id": "kT7QqQ8DTNI",
+      "etag": "mX8elv71TpBFOaoyZkt_ENwuNDg",
+      "id": "x_t53a5Ons0",
       "snippet": {
-        "publishedAt": "2023-02-26T23:28:34Z",
-        "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
-        "title": "Jake Paul vs. Tommy Fury | Highlights | ESPN Ringside",
-        "description": "Check out these highlights from Tommy Fury's split decision win over Jake Paul.\n\n\n✔️ Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️ Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "publishedAt": "2023-03-01T15:00:43Z",
+        "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+        "title": "Metallica: If Darkness Had a Son (Official Music Video)",
+        "description": "Metallica's official music video for “If Darkness Had a Son,” from the album “72 Seasons” available April 14th, 2023.\n\nListen to “If Darkness Had a Son”: https://metallica.lnk.to/IfDarknessHadASon\nPre-order. Pre-save. Pre-add “72 Seasons”: https://metallica.lnk.to/72Seasons \nSubscribe for more videos: https://tallica.lnk.to/subscribe\n\nDirected by Tim Saccenti\nFilmed in Los Angeles, CA, on January 9, 2023\n\nVideo Premiere Date: March 1, 2023\n\nLYRICS\n\nTemptation\nTemptation\nTemptation\nTemptation\n\nThe beast still shouts for what it’s yearning\nHe stokes the fire, desire burning\nThe never-ending quenchless craving\nThe unforgiving misbehaving\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\nTemptation, leave me be\n\nTemptation\nTemptation\nTemptation\nTemptation\n\nSo paint your eyes as black as sorrow\nHide yourself behind tomorrow\nThe nightmares search for infiltration\nIn domination, captivation\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\nTemptation, leave me be\n\nReturn again to where it’s darkest\nDragging home this heathen harvest\nAnd all the children subjugated\nManipulated, propagated\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\n\nIf darkness had a son\nHere I am\nIf darkness had a son\nHere I am\nIf darkness had a son\nHere I am\nI bathe in holy water\nTemptation, leave me be\n\nWritten by James Hetfield, Lars Ulrich & Kirk Hammett\n\nCREDITS\n\nDirector: Tim Saccenti\nProducer: Daniel Lachman\nExecutive Producer: Jennifer Heath\nProd Company: Radical Media\nCreative Direction: Setta Studios\nDP: Joshua Zucker-Pluda\nProduction Designer: Kurt Gefke\nGaffer: Drew Valenti\nKey Grip: Charles Lenz\nSPFX: Kevin Watson\nEditor: Matt Posey\nEditorial: PS260\nColorist: Dante Pasquinelli\nColor: Ethos Studio\nDigital Artwork: Nnewnome Beauton\nVFX: Mark Szumski\nVFX Company: Hey Beautiful Jerk  \nExecutive Producer: Gina Niespodziani\nVisuals Curator: Dina Chang\nSound Designer: Nicole Pettigrew\n\nProduction Supervisor: Kelsie Drinkwater Buchanan\nAssistant Director: Michael Estrella\nSteadicam: Chris Loh\n1st AC: Ethan McDonald\n2nd AC: Alan Certeza\nDIT: James Petersmeyer\nBB Electric: Arin Whitlock\nElectric: Tom Peña\nElectric: Chris Waldorf\nElectric: Darrel Ditri\nLighting Console Programmer: Zane Blanchard\nBB Grip: Andy Wilson\nGrip: Otis Mannick\nGrip: Matt King\nGrip: Derick Holub\nProjectionist: Ryan Griffin/Projected Visions\nVTR/Playback: Robert Buckholz\nLeadman: Dylan Robie\nSet Dresser: Kenny Davis\nSet Dresser: Sean Buckley\nHair & Makeup: Lily Beren\nStylist: Keith Wager\n \nMedic: Matt Payne\nCCO: Chris Howard\nCovid Coord: Danielle Rivera\n2nd AD: Janet Marin\nProduction Coordinator: Adam Sun\nProduction Assistant: Joe Blana\nProduction Assistant: Xavier Musti\nProduction Assistant: Alicia Echevarria\nProduction Assistant: Oscar Amaya\nProduction Assistant: Jackson Linn\n\nFollow Metallica:\nWebsite & Store: http://www.metallica.com\nInstagram: http://www.instagram.com/metallica\nFacebook: http://www.facebook.com/metallica\nTikTok: http://www.tiktok.com/@metallica\n\n© 2023 Blackened Recordings\n\n#Metallica #IfDarknessHadASon #72Seasons",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kT7QqQ8DTNI/default.jpg",
+            "url": "https://i.ytimg.com/vi/x_t53a5Ons0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kT7QqQ8DTNI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/x_t53a5Ons0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kT7QqQ8DTNI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/x_t53a5Ons0/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/kT7QqQ8DTNI/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/x_t53a5Ons0/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/kT7QqQ8DTNI/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/x_t53a5Ons0/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "ESPN",
+        "channelTitle": "Metallica",
         "tags": [
-          "espn",
-          "sports",
-          "jake paul",
-          "jake paul tommy fury",
-          "mini jake paul",
-          "jake paul training",
-          "jake paul tommy fury face to face",
-          "jake paul vs tommy fury faceoff",
-          "jake paul - fresh outta london",
-          "jake paul vlogs",
-          "jake paul vs tommy fury",
-          "jake paul vs tommy fury highlights",
-          "tommy fury",
-          "boxing",
-          "tommy fury vs jake paul",
-          "jake paul boxing",
-          "jake paul vs tommy fury face 2 face",
-          "jake paul vs tommy fury press conference"
+          "metallica",
+          "metallica tour",
+          "metallica live",
+          "metallica concert",
+          "metallica in concert",
+          "metallica song",
+          "metallica city",
+          "metallica country"
         ],
-        "categoryId": "17",
+        "categoryId": "10",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Jake Paul vs. Tommy Fury | Highlights | ESPN Ringside",
-          "description": "Check out these highlights from Tommy Fury's split decision win over Jake Paul.\n\n\n✔️ Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️ Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+          "title": "Metallica: If Darkness Had a Son (Official Music Video)",
+          "description": "Metallica's official music video for “If Darkness Had a Son,” from the album “72 Seasons” available April 14th, 2023.\n\nListen to “If Darkness Had a Son”: https://metallica.lnk.to/IfDarknessHadASon\nPre-order. Pre-save. Pre-add “72 Seasons”: https://metallica.lnk.to/72Seasons \nSubscribe for more videos: https://tallica.lnk.to/subscribe\n\nDirected by Tim Saccenti\nFilmed in Los Angeles, CA, on January 9, 2023\n\nVideo Premiere Date: March 1, 2023\n\nLYRICS\n\nTemptation\nTemptation\nTemptation\nTemptation\n\nThe beast still shouts for what it’s yearning\nHe stokes the fire, desire burning\nThe never-ending quenchless craving\nThe unforgiving misbehaving\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\nTemptation, leave me be\n\nTemptation\nTemptation\nTemptation\nTemptation\n\nSo paint your eyes as black as sorrow\nHide yourself behind tomorrow\nThe nightmares search for infiltration\nIn domination, captivation\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\nTemptation, leave me be\n\nReturn again to where it’s darkest\nDragging home this heathen harvest\nAnd all the children subjugated\nManipulated, propagated\n\nIf darkness had a son, here I am\nTemptation is his father\nIf darkness had a son, here I am\nI bathe in holy water\n\nIf darkness had a son\nHere I am\nIf darkness had a son\nHere I am\nIf darkness had a son\nHere I am\nI bathe in holy water\nTemptation, leave me be\n\nWritten by James Hetfield, Lars Ulrich & Kirk Hammett\n\nCREDITS\n\nDirector: Tim Saccenti\nProducer: Daniel Lachman\nExecutive Producer: Jennifer Heath\nProd Company: Radical Media\nCreative Direction: Setta Studios\nDP: Joshua Zucker-Pluda\nProduction Designer: Kurt Gefke\nGaffer: Drew Valenti\nKey Grip: Charles Lenz\nSPFX: Kevin Watson\nEditor: Matt Posey\nEditorial: PS260\nColorist: Dante Pasquinelli\nColor: Ethos Studio\nDigital Artwork: Nnewnome Beauton\nVFX: Mark Szumski\nVFX Company: Hey Beautiful Jerk  \nExecutive Producer: Gina Niespodziani\nVisuals Curator: Dina Chang\nSound Designer: Nicole Pettigrew\n\nProduction Supervisor: Kelsie Drinkwater Buchanan\nAssistant Director: Michael Estrella\nSteadicam: Chris Loh\n1st AC: Ethan McDonald\n2nd AC: Alan Certeza\nDIT: James Petersmeyer\nBB Electric: Arin Whitlock\nElectric: Tom Peña\nElectric: Chris Waldorf\nElectric: Darrel Ditri\nLighting Console Programmer: Zane Blanchard\nBB Grip: Andy Wilson\nGrip: Otis Mannick\nGrip: Matt King\nGrip: Derick Holub\nProjectionist: Ryan Griffin/Projected Visions\nVTR/Playback: Robert Buckholz\nLeadman: Dylan Robie\nSet Dresser: Kenny Davis\nSet Dresser: Sean Buckley\nHair & Makeup: Lily Beren\nStylist: Keith Wager\n \nMedic: Matt Payne\nCCO: Chris Howard\nCovid Coord: Danielle Rivera\n2nd AD: Janet Marin\nProduction Coordinator: Adam Sun\nProduction Assistant: Joe Blana\nProduction Assistant: Xavier Musti\nProduction Assistant: Alicia Echevarria\nProduction Assistant: Oscar Amaya\nProduction Assistant: Jackson Linn\n\nFollow Metallica:\nWebsite & Store: http://www.metallica.com\nInstagram: http://www.instagram.com/metallica\nFacebook: http://www.facebook.com/metallica\nTikTok: http://www.tiktok.com/@metallica\n\n© 2023 Blackened Recordings\n\n#Metallica #IfDarknessHadASon #72Seasons"
         },
-        "defaultAudioLanguage": "en-US"
+        "defaultAudioLanguage": "en"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "IqryGNahST5ikfwXMgoEzhTcnK4",
-      "id": "Qyfyd_t9mzs",
+      "etag": "v2uqQ-8zaYD8nOCxQyD70QQQSiY",
+      "id": "6GFwqT5bNNA",
       "snippet": {
-        "publishedAt": "2023-02-27T14:00:10Z",
-        "channelId": "UCFctpiB_Hnlk3ejWfHqSm6Q",
-        "title": "Pokémon Presents | 2.27.2023",
-        "description": "What did you think of today’s Pokémon Presents, Trainers? 👀",
+        "publishedAt": "2023-02-28T20:27:23Z",
+        "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+        "title": "I Spent 10,000,000 Robux",
+        "description": "We love Roblox!\nSpecial thanks to all the developers that helped with this video\n\nESPECIALLY HAZEM!\nPLS DONATE - https://www.roblox.com/games/8737602449/PLS-DONATE\n\nFOLLOW THESE OR ELSE\n🎥SECOND CHANNEL - https://www.youtube.com/user/CrushSlash\n🐤TWITTER - https://twitter.com/lazarbeam\n📷INSTAGRAM - https://instagram.com/lazarbeamyt",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Qyfyd_t9mzs/default.jpg",
+            "url": "https://i.ytimg.com/vi/6GFwqT5bNNA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Qyfyd_t9mzs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6GFwqT5bNNA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Qyfyd_t9mzs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6GFwqT5bNNA/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Qyfyd_t9mzs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/6GFwqT5bNNA/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Qyfyd_t9mzs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/6GFwqT5bNNA/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "The Official Pokémon YouTube channel",
+        "channelTitle": "LazarBeam",
+        "tags": [
+          "roblox",
+          "lazarbeam"
+        ],
         "categoryId": "20",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Pokémon Presents | 2.27.2023",
-          "description": "What did you think of today’s Pokémon Presents, Trainers? 👀"
+          "title": "I Spent 10,000,000 Robux",
+          "description": "We love Roblox!\nSpecial thanks to all the developers that helped with this video\n\nESPECIALLY HAZEM!\nPLS DONATE - https://www.roblox.com/games/8737602449/PLS-DONATE\n\nFOLLOW THESE OR ELSE\n🎥SECOND CHANNEL - https://www.youtube.com/user/CrushSlash\n🐤TWITTER - https://twitter.com/lazarbeam\n📷INSTAGRAM - https://instagram.com/lazarbeamyt"
         },
-        "defaultAudioLanguage": "en-US"
+        "defaultAudioLanguage": "en"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "NKoBrPHdvWcfMZvq8Q3JGopV4ak",
-      "id": "LWZolIvzAPk",
+      "etag": "a8JeKlf6TRBnSXtnAj7lyInGFuw",
+      "id": "zDzz8Tv0pN8",
       "snippet": {
-        "publishedAt": "2023-02-27T08:30:05Z",
-        "channelId": "UClW4jraMKz6Qj69lJf-tODA",
-        "title": "YoungBoy Never Broke Again - NEXT ( Official Music Video )",
-        "description": "",
+        "publishedAt": "2023-03-01T08:00:24Z",
+        "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+        "title": "Color Fest Season is Here! Clash of Clans Official",
+        "description": "Prepare for an overload of color - Color Fest Season is here! And for the first time ever - unlock the Painter Scenery with March Gold Pass! \n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #colorfest",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LWZolIvzAPk/default.jpg",
+            "url": "https://i.ytimg.com/vi/zDzz8Tv0pN8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LWZolIvzAPk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDzz8Tv0pN8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LWZolIvzAPk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDzz8Tv0pN8/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/LWZolIvzAPk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDzz8Tv0pN8/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/LWZolIvzAPk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zDzz8Tv0pN8/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "YoungBoy Never Broke Again",
+        "channelTitle": "Clash of Clans",
         "tags": [
-          "YoungBoy Never Broke Again",
-          "NBA YoungBoy",
-          "YoungBoy Quando Rondo",
-          "YoungBoy Leak",
-          "Make No Sense YoungBoy",
-          "Youngboy Lost Motives",
-          "YoungBoy NBA Music Video",
-          "YoungBoy Never Broke Again TOP",
-          "nba youngboy top",
-          "YoungBoy NBA TOP album",
-          "7KTt4_M09Rw",
-          "0C80BSgjb8M",
-          "qChxuVxs8FA",
-          "dYk-yCsuTUo",
-          "6MCSr65d9Xc",
-          "ALimx-H8C6s",
-          "YoungBoy Never Broke Again Sincerely Kentrell",
-          "Sincerely Kentrell",
-          "Youngboy NBA Sincerely Kentrell",
-          "Sincerely Kentrell album",
-          "YBNBA Sincerely Kentrell",
-          "YB Sincerely Kentrell",
-          "Kentrell"
+          "clash of clans",
+          "COC",
+          "Clash of Clans Gameplay",
+          "Clash of Clans Strategy",
+          "Clash of Clans Animation",
+          "Clash of Clans Commercial",
+          "Clash of Clans Attacks",
+          "Clash of Clans Town Hall",
+          "Hog Rider",
+          "PEKKA",
+          "Clan Wars",
+          "season challenges",
+          "clan war leagues",
+          "clash on",
+          "clan game",
+          "clan games",
+          "clash-a-rama",
+          "clasharama",
+          "color fest",
+          "painter skins",
+          "painter king",
+          "painter queen",
+          "painter champion",
+          "painter scenery",
+          "painter warden",
+          "new season trailer"
         ],
-        "categoryId": "10",
+        "categoryId": "20",
         "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
         "localized": {
-          "title": "YoungBoy Never Broke Again - NEXT ( Official Music Video )",
-          "description": ""
-        }
+          "title": "Color Fest Season is Here! Clash of Clans Official",
+          "description": "Prepare for an overload of color - Color Fest Season is here! And for the first time ever - unlock the Painter Scenery with March Gold Pass! \n\n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #colorfest"
+        },
+        "defaultAudioLanguage": "en"
       }
     },
     {
       "kind": "youtube#video",
-      "etag": "Xj_0SAvHw5UwoIySdrmWmNIxShM",
-      "id": "Sqa8Zo2XWc4",
+      "etag": "DIiBBuvXQMeJgO6NX37pb89m0RY",
+      "id": "0nLoRgi1f78",
       "snippet": {
-        "publishedAt": "2023-02-27T07:30:08Z",
-        "channelId": "UC3XTzVzaHQEd30rQbuvCtTQ",
-        "title": "Artificial Intelligence: Last Week Tonight with John Oliver (HBO)",
-        "description": "Artificial intelligence is increasingly becoming part of our lives, from self-driving cars to ChatGPT. John Oliver discusses how AI works, where it might be heading next, and, of course, why it hates the bus.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight \n\nFind Last Week Tonight on Facebook like your mom would: www.facebook.com/lastweektonight \n\nFollow us on Twitter for news about jokes and jokes about news: www.twitter.com/lastweektonight \n\nVisit our official site for all that other stuff at once: www.hbo.com/lastweektonight",
+        "publishedAt": "2023-02-28T22:05:00Z",
+        "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
+        "title": "I Got Exclusive Access to NBA All-Star Weekend!",
+        "description": "Check out exclusive content on the NBA app! https://app.link.nba.com/JesserAS23\n @NBA  #NBAAllStar\n\nI was lucky enough to be invited to the NBA All Star week and see exclusive behind the scenes access that no one on YouTube has ever shown!\n\nI Tried Out for an NBA Team and This Happened…\n► https://youtu.be/5HNy7b6bz4g\n\nI Got Exclusive Access to the NBA Finals!\n► https://youtu.be/Uctc1eypqsw\n\n★ Follow me on social media @Jesser ★\n●Instagram https://instagram.com/jesser\n●Twitter https://twitter.com/jesser\n\nBucketsquad Apparel - https://bucketsquad.com/\n\n#BucketSquad #2HYPE",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Sqa8Zo2XWc4/default.jpg",
+            "url": "https://i.ytimg.com/vi/0nLoRgi1f78/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Sqa8Zo2XWc4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0nLoRgi1f78/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Sqa8Zo2XWc4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0nLoRgi1f78/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/Sqa8Zo2XWc4/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/0nLoRgi1f78/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/Sqa8Zo2XWc4/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0nLoRgi1f78/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
         },
-        "channelTitle": "LastWeekTonight",
+        "channelTitle": "Jesser",
+        "tags": [
+          "jesser",
+          "NBA",
+          "jesser NBA",
+          "nba all star",
+          "nba exclusive access",
+          "NBA celebrity game",
+          "nba all star game",
+          "nba all star 2023",
+          "basketball",
+          "lebron",
+          "giannis",
+          "luka",
+          "dwayne wade",
+          "nba all star weekend",
+          "nba BTS",
+          "unseen NBA footage"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Got Exclusive Access to NBA All-Star Weekend!",
+          "description": "Check out exclusive content on the NBA app! https://app.link.nba.com/JesserAS23\n @NBA  #NBAAllStar\n\nI was lucky enough to be invited to the NBA All Star week and see exclusive behind the scenes access that no one on YouTube has ever shown!\n\nI Tried Out for an NBA Team and This Happened…\n► https://youtu.be/5HNy7b6bz4g\n\nI Got Exclusive Access to the NBA Finals!\n► https://youtu.be/Uctc1eypqsw\n\n★ Follow me on social media @Jesser ★\n●Instagram https://instagram.com/jesser\n●Twitter https://twitter.com/jesser\n\nBucketsquad Apparel - https://bucketsquad.com/\n\n#BucketSquad #2HYPE"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "thWPOisqN_QvGKvWKFjO6mmVHYw",
+      "id": "412--23qbb4",
+      "snippet": {
+        "publishedAt": "2023-03-01T16:00:02Z",
+        "channelId": "UCbEn1kwHr0TPmC9VPWIA_Mw",
+        "title": "Jake Paul Holds Back Tears On Show After Loss - BS Post-Fight Special",
+        "description": "Tune into the post-fight special as Jake Paul recaps the #paulfury fight, gets deep and emotional, Logan Paul shares his thoughts, and shares what's next for Jake Paul...\n\n0:00 - INTRO\n1:15 - Logan was GUTTED by Jake’s loss \n2:20 - Jake’s post-fight journaling\n7:20 - Turning a LOSS into a WIN\n13:55 - Logan’s mid-fight trash talk\n14:35 - Was Jake impressed by Tommy?\n17:25 - What’s next for Jake? (PPV numbers revealed)\n18:15 - Logan vs. Tommy?!\n18:45 - OUTRO\n\n\nDownload BETR:\nhttps://bit.ly/betrsocial\n\n\nNEW EPISODE OF BS W/ JAKE PAUL EVERY WEEK!\n\n🔥  FOLLOW US ON SOCIAL MEDIA! 🔥\n\nTIK TOK ► https://www.tiktok.com/@bsjakepaul?_t=8UkSBHBS0FO&_r=1\nTWITTER ► https://twitter.com/bsjakepaul?s=21&t=jc881bhisPPpw24V02SJOg\nINSTAGRAM ► https://instagram.com/bsjakepaul?igshid=YmMyMTA2M2Y=\n\n\nPowered By: Betr ⚡️\n\nFOLLOW BETR ON ALL PLATFORM\n\nTIK TOK ► https://www.tiktok.com/@betr?_t=8UkSzthL1W2&_r=1\nTWITTER ► https://twitter.com/betr?s=21&t=jc881bhisPPpw24V02SJOg\nINSTAGRAM ► https://instagram.com/betr?igshid=YmMyMTA2M2Y=\n\n#jakepaul #bswjakepaul #loganpaul",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/412--23qbb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/412--23qbb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/412--23qbb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/412--23qbb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/412--23qbb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "BS w/ Jake Paul",
+        "tags": [
+          "jake paul",
+          "jake",
+          "paul",
+          "jake paul boxing",
+          "bs with jake paul",
+          "bs w jake paul",
+          "jake paul podcast",
+          "betr",
+          "jake paul betr",
+          "jake paul show"
+        ],
         "categoryId": "24",
         "liveBroadcastContent": "none",
         "localized": {
-          "title": "Artificial Intelligence: Last Week Tonight with John Oliver (HBO)",
-          "description": "Artificial intelligence is increasingly becoming part of our lives, from self-driving cars to ChatGPT. John Oliver discusses how AI works, where it might be heading next, and, of course, why it hates the bus.\n\nConnect with Last Week Tonight online... \n\nSubscribe to the Last Week Tonight YouTube channel for more almost news as it almost happens: www.youtube.com/lastweektonight \n\nFind Last Week Tonight on Facebook like your mom would: www.facebook.com/lastweektonight \n\nFollow us on Twitter for news about jokes and jokes about news: www.twitter.com/lastweektonight \n\nVisit our official site for all that other stuff at once: www.hbo.com/lastweektonight"
+          "title": "Jake Paul Holds Back Tears On Show After Loss - BS Post-Fight Special",
+          "description": "Tune into the post-fight special as Jake Paul recaps the #paulfury fight, gets deep and emotional, Logan Paul shares his thoughts, and shares what's next for Jake Paul...\n\n0:00 - INTRO\n1:15 - Logan was GUTTED by Jake’s loss \n2:20 - Jake’s post-fight journaling\n7:20 - Turning a LOSS into a WIN\n13:55 - Logan’s mid-fight trash talk\n14:35 - Was Jake impressed by Tommy?\n17:25 - What’s next for Jake? (PPV numbers revealed)\n18:15 - Logan vs. Tommy?!\n18:45 - OUTRO\n\n\nDownload BETR:\nhttps://bit.ly/betrsocial\n\n\nNEW EPISODE OF BS W/ JAKE PAUL EVERY WEEK!\n\n🔥  FOLLOW US ON SOCIAL MEDIA! 🔥\n\nTIK TOK ► https://www.tiktok.com/@bsjakepaul?_t=8UkSBHBS0FO&_r=1\nTWITTER ► https://twitter.com/bsjakepaul?s=21&t=jc881bhisPPpw24V02SJOg\nINSTAGRAM ► https://instagram.com/bsjakepaul?igshid=YmMyMTA2M2Y=\n\n\nPowered By: Betr ⚡️\n\nFOLLOW BETR ON ALL PLATFORM\n\nTIK TOK ► https://www.tiktok.com/@betr?_t=8UkSzthL1W2&_r=1\nTWITTER ► https://twitter.com/betr?s=21&t=jc881bhisPPpw24V02SJOg\nINSTAGRAM ► https://instagram.com/betr?igshid=YmMyMTA2M2Y=\n\n#jakepaul #bswjakepaul #loganpaul"
         },
-        "defaultAudioLanguage": "en-US"
-      }
-    },
-    {
-      "kind": "youtube#video",
-      "etag": "lttXIoWUNKUPV8mdKbYvmIIkaz8",
-      "id": "HkLEM6hvQlo",
-      "snippet": {
-        "publishedAt": "2023-02-27T17:00:11Z",
-        "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
-        "title": "Lil Baby, Fridayy - Forever (Official Music Video)",
-        "description": "Music video by Lil Baby, Fridayy performing Forever. Quality Control Music/Motown Records; © 2022 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/nvM7Cj",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HkLEM6hvQlo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HkLEM6hvQlo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HkLEM6hvQlo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          },
-          "standard": {
-            "url": "https://i.ytimg.com/vi/HkLEM6hvQlo/sddefault.jpg",
-            "width": 640,
-            "height": 480
-          },
-          "maxres": {
-            "url": "https://i.ytimg.com/vi/HkLEM6hvQlo/maxresdefault.jpg",
-            "width": 1280,
-            "height": 720
-          }
-        },
-        "channelTitle": "LilBabyVEVO",
-        "tags": [
-          "Lil",
-          "Baby",
-          "Fridayy",
-          "Forever",
-          "Quality",
-          "Control",
-          "Music/Motown",
-          "Records",
-          "Hip",
-          "Hop"
-        ],
-        "categoryId": "10",
-        "liveBroadcastContent": "none",
-        "localized": {
-          "title": "Lil Baby, Fridayy - Forever (Official Music Video)",
-          "description": "Music video by Lil Baby, Fridayy performing Forever. Quality Control Music/Motown Records; © 2022 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/nvM7Cj"
-        }
+        "defaultAudioLanguage": "en"
       }
     }
   ],
