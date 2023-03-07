@@ -14,7 +14,6 @@ function App() {
       <YoutubeApiProvider>
         <QueryClientProvider client={queryClient}>
           <Outlet />
-          <ReactQueryDevtools initialIsOpen={false} />
         </QueryClientProvider>
       </YoutubeApiProvider>
     </>
