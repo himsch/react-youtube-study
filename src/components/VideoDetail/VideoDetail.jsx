@@ -1,5 +1,5 @@
 import React from 'react';
-import { useLocation, useParams } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../ChannelInfo/ChannelInfo';
 import RelatedVideos from '../RelatedVideos/RelatedVideos';
 
@@ -17,6 +17,7 @@ function VideoDetail() {
           width="100%"
           height="640"
           src={`http://www.youtube.com/embed/${video.id}`}
+          title={title}
         />
         <div className={'p-8'}>
           <h2 className={'text-xl font-bold'}>{title}</h2>
